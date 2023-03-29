@@ -1,2 +1,2 @@
 # AwesomeWM
-Configuraciones para AwesomeWM
+AwesomeWM personal configurations.
